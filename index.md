@@ -4,4 +4,4 @@ title: Welcome to my blog
 
 Content for the GitHub page goes here.
 
-Tincho was here
+Tincho was here because he's a nice guy.
